@@ -1,3 +1,43 @@
+# PROJETO COMANDOS DE DEPENDENCIAS
+
+1- npm create-react-app 
+Criação do projeto
+2- npm install react-router-dom
+Utilizamos react-router-dom para usar sua blibioteca como Link
+3- npm install axios
+Utilizado para conseguir mandar informação da api e utilizar o link da api
+4- npm i --save react-toastify
+Toastify serviu para criar alerts mais estilizados
+
+# LINK
+https://primeflix12.netlify.app
+A imagem do site esta com a do react, decidi manter.
+
+https://github.com/kerc852/primeflix
+
+# Prints
+
+Home do site
+![Imagem da home] [https://imgur.com/P191NUX]
+
+Ao clicar em Acessar
+![Imagem do filme] [https://imgur.com/4DtpF8a]
+
+Clicar em salvar
+![Imagem salvar] [https://imgur.com/cYCAkqn]
+![Salvo] [https://imgur.com/I534aig]
+
+Se ja tiver salvo
+![Já salvo] [https://imgur.com/9SVfkWY]
+
+Trailer 
+![Trailer] [https://imgur.com/bwGhUlW]
+Link do trailer
+![Link] [https://imgur.com/hhs8Zwy]
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
