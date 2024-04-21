@@ -23,22 +23,22 @@ https://github.com/kerc852/primeflix
 # Prints
 
 Home do site
-![Home] (https://imgur.com/P191NUX)
+![Home] (https://imgur.com/P191NUX.png)
 
 Ao clicar em Acessar
-![Filme] (https://imgur.com/4DtpF8a)
+![Filme] (https://imgur.com/4DtpF8a.png)
 
 Clicar em salvar
-![Salvar] (https://imgur.com/cYCAkqn)
-![Favoritos] (https://imgur.com/I534aig)
+![Salvar] (https://imgur.com/cYCAkq.png)
+![Favoritos] (https://imgur.com/I534aig.png)
 
 Se ja tiver salvo
-![Salvo] (https://imgur.com/9SVfkWY)
+![Salvo] (https://imgur.com/9SVfkWY.png)
 
 Trailer 
-![Trailer] (https://imgur.com/bwGhUlW)
+![Trailer] (https://imgur.com/bwGhUlW.png)
 Link do trailer
-![Link] (https://imgur.com/hhs8Zwy)
+![Link] (https://imgur.com/hhs8Zwy.png)
 
 
 
